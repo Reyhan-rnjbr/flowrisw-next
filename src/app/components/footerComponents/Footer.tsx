@@ -40,10 +40,10 @@ const Footer = () => {
           <p className="text-[12px]">©2024Flowrise</p>
           <ul className="flex">
             <li className="p-3">
-              <Link href="/about">About</Link>
+              <Link href="/aboutPage">About</Link>
             </li>
             <li className="p-3">
-              <Link href="/features">Features</Link>
+              <Link href="/featuresPage">Features</Link>
             </li>
           </ul>
         </div>
